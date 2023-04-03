@@ -1,0 +1,21 @@
+{
+  "name": "amadeus",
+  "version": "1.0.0",
+  "description": "Testing Discord capabilities for AI-like projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "online",
+    "node.js"
+  ],
+  "author": "Digital Future Laboratory",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "qckwinsvc": "^1.0.0"
+  }
+}
